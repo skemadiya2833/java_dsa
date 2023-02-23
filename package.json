@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "instagram-save-client": "^0.3.0",
+    "instagram-url-downloader": "^1.1.0"
+  }
+}
